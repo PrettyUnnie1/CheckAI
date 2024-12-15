@@ -1,0 +1,477 @@
+Các giá trị trùng trong cột 'question':
+
+Giá trị: Một cửa hàng đã bán 30% số hàng hiện có và thu được 15 000 000 đồng. Hỏi nếu bán hết hàng thì cửa hàng thu được bao nhiêu tiền?
+- Sheet: 3B, Dòng: 1
+- Sheet: 3B-finetune, Dòng: 1
+- Sheet: 7B, Dòng: 1
+- Sheet: 7B-finetune, Dòng: 1
+- Sheet: 14B, Dòng: 1
+
+Giá trị: Giá trị của chữ số 7 trong số 32,708 là:
+- Sheet: 3B, Dòng: 2
+- Sheet: 7B, Dòng: 2
+
+Giá trị: 37,5% của một số là 1, 3875. Số đó là:
+- Sheet: 3B, Dòng: 4
+- Sheet: 3B-finetune, Dòng: 7
+- Sheet: 7B, Dòng: 4
+- Sheet: 7B-finetune, Dòng: 4
+- Sheet: 14B, Dòng: 2
+
+Giá trị: Chữ số 5 trong số 254. 836 chỉ:
+- Sheet: 3B, Dòng: 5
+- Sheet: 7B, Dòng: 5
+
+Giá trị: 25% của 120 là:
+- Sheet: 3B, Dòng: 8
+- Sheet: 3B-finetune, Dòng: 11
+- Sheet: 7B, Dòng: 6
+- Sheet: 7B-finetune, Dòng: 6
+- Sheet: 14B, Dòng: 5
+
+Giá trị: Trong các số 28,3; 2,83; 38,2; 3,82 số có chữ số 3 ở hàng phần mười là:
+- Sheet: 3B, Dòng: 9
+- Sheet: 7B-finetune, Dòng: 7
+- Sheet: 14B, Dòng: 6
+
+Giá trị: Số thập phân gồm 55 đơn vị, 2 phần trăm, 7 phần nghìn
+- Sheet: 3B, Dòng: 11
+- Sheet: 3B-finetune, Dòng: 13
+
+Giá trị: Viết số thích hợp vào chỗ chấm:
+Giá trị của biểu thức: 136,5 – 100 : 2,5 x 0,9 là:
+- Sheet: 3B, Dòng: 12
+- Sheet: 3B-finetune, Dòng: 15
+- Sheet: 7B, Dòng: 7
+- Sheet: 7B-finetune, Dòng: 8
+- Sheet: 14B, Dòng: 7
+
+Giá trị: Vẽ đường cao AH trong hình tam giác sau:
++ Cho phép chia 0,6159 \div 0,52. Nếu phần thập phân ở thương lấy 2 chữ số thì số dư của phép chia này là:
+- Sheet: 3B, Dòng: 13
+- Sheet: 7B, Dòng: 8
+- Sheet: 14B, Dòng: 8
+
+Giá trị: 3m246cm^{2} = . . . . . . cm^{2}. Số thích hợp viết vào chỗ chấm là:
+- Sheet: 3B, Dòng: 14
+- Sheet: 3B-finetune, Dòng: 17
+
+Giá trị: Chữ số 7 trong số thập phân 82,374 có giá trị là:
+- Sheet: 3B, Dòng: 15
+- Sheet: 3B-finetune, Dòng: 18
+- Sheet: 7B, Dòng: 9
+- Sheet: 7B-finetune, Dòng: 10
+- Sheet: 14B, Dòng: 9
+
+Giá trị: Phép tính nhân nhẩm 15,274 x 100 có kết quả là:
+- Sheet: 3B, Dòng: 16
+- Sheet: 7B, Dòng: 10
+
+Giá trị: Chữ số 9 trong số 391,132 thuộc hàng:
+- Sheet: 3B, Dòng: 17
+- Sheet: 3B-finetune, Dòng: 19
+- Sheet: 7B, Dòng: 11
+- Sheet: 7B-finetune, Dòng: 12
+- Sheet: 14B, Dòng: 10
+
+Giá trị: Chữ số 5 trong số 245 836 chỉ:
+- Sheet: 3B, Dòng: 18
+- Sheet: 3B-finetune, Dòng: 20
+- Sheet: 7B, Dòng: 12
+
+Giá trị: Kết quả của phép cộng: 125,855 + 25,31 = ?
+- Sheet: 3B, Dòng: 19
+- Sheet: 3B-finetune, Dòng: 21
+- Sheet: 7B-finetune, Dòng: 13
+- Sheet: 14B, Dòng: 11
+
+Giá trị: Lớp học có 32 học sinh, số học nữ là 12. Hỏi số học sinh nam chiếm bao nhiêu phần trăm số học sinh cả lớp?
+- Sheet: 3B, Dòng: 20
+- Sheet: 3B-finetune, Dòng: 22
+- Sheet: 7B, Dòng: 13
+- Sheet: 7B-finetune, Dòng: 14
+- Sheet: 14B, Dòng: 12
+
+Giá trị: Kết quả của biểu thức: 75 + (15,2 \times 5) + 30 \div 2 là:
+- Sheet: 3B, Dòng: 21
+- Sheet: 3B-finetune, Dòng: 23
+- Sheet: 7B, Dòng: 14
+- Sheet: 7B-finetune, Dòng: 15
+- Sheet: 14B, Dòng: 13
+
+Giá trị: Số thích hợp điền vào chỗ chấm để 2giờ 18phút = ………….giờ là:
+- Sheet: 3B, Dòng: 22
+- Sheet: 7B, Dòng: 15
+- Sheet: 7B-finetune, Dòng: 16
+- Sheet: 14B, Dòng: 14
+
+Giá trị: Số thích hợp điền vào chỗ chấm để 3 tấn 15kg = …… tấn là:
+- Sheet: 3B, Dòng: 23
+- Sheet: 3B-finetune, Dòng: 24
+- Sheet: 7B, Dòng: 16
+- Sheet: 7B-finetune, Dòng: 17
+- Sheet: 14B, Dòng: 15
+
+Giá trị: Số thích hợp điền vào chỗ chấm để 9m2 8dm2 =……..m2 là:
+- Sheet: 3B, Dòng: 24
+- Sheet: 7B, Dòng: 17
+- Sheet: 7B-finetune, Dòng: 18
+- Sheet: 14B, Dòng: 16
+
+Giá trị: Chữ số 7 trong số 169,57 chỉ:
+- Sheet: 3B, Dòng: 25
+- Sheet: 3B-finetune, Dòng: 25
+
+Giá trị: Hỗn số 4 viết dưới dạng số thập phân là:
+- Sheet: 3B, Dòng: 26
+- Sheet: 3B-finetune, Dòng: 26
+- Sheet: 7B, Dòng: 18
+- Sheet: 7B-finetune, Dòng: 19
+
+Giá trị: Một căn phòng hình vuông có cạnh 30cm. Diện tích của nó sẽ là:
+- Sheet: 3B, Dòng: 28
+- Sheet: 3B-finetune, Dòng: 30
+- Sheet: 7B, Dòng: 21
+- Sheet: 14B, Dòng: 18
+
+Giá trị: Phần nguyên của số 1942,54 là:
+- Sheet: 3B, Dòng: 29
+- Sheet: 7B, Dòng: 22
+- Sheet: 14B, Dòng: 19
+
+Giá trị: Hỗn số 3 \frac{2}{5} được chuyển thành số thập phân là:
+- Sheet: 3B, Dòng: 30
+- Sheet: 3B-finetune, Dòng: 31
+- Sheet: 7B, Dòng: 23
+- Sheet: 7B-finetune, Dòng: 20
+- Sheet: 14B, Dòng: 20
+
+Giá trị: Dãy số thập phân nào dưới đây được viết theo thứ tự từ lớn đến bé?
+- Sheet: 3B, Dòng: 32
+- Sheet: 3B-finetune, Dòng: 33
+- Sheet: 7B-finetune, Dòng: 22
+
+Giá trị: Một hình hộp chữ nhật có chiều dài gấp hai lần chiều rộng. Nếu tăng chiều dài lên 5 dm và giữ nguyên chiều rộng, chiều cao thì thể tích hình hộp chữ nhật tăng lên 1,2 lần. Hỏi nếu tăng chiều rộng lên 5 dm, giảm chiều dài đi 5 dm và tăng chiều cao lên gấp đôi thì thể tích hình hộp chữ nhật tăng lên bao nhiêu lần?
+- Sheet: 3B, Dòng: 33
+- Sheet: 7B, Dòng: 27
+
+Giá trị: Cho hình vẽ. Tính tỉ số diện tích 2 tam giác BDF và AEF.
+- Sheet: 3B, Dòng: 34
+- Sheet: 3B-finetune, Dòng: 37
+- Sheet: 7B-finetune, Dòng: 23
+
+Giá trị: Số thập phân gồm 18 đơn vị, 8 phần mười  và 6 phần nghìn được viết là:
+- Sheet: 3B, Dòng: 36
+- Sheet: 3B-finetune, Dòng: 38
+
+Giá trị: Diện tích thửa ruộng hình thang có độ dài hai đáy lần lượt là 20 m; 15 m, chiều cao là 10m là:
+- Sheet: 3B, Dòng: 37
+- Sheet: 7B, Dòng: 28
+- Sheet: 14B, Dòng: 21
+
+Giá trị: Trong hình vẽ dưới đây có bao nhiêu hình tam giác? 
+Em hãy khoanh tròn vào chữ cái đặt trước kết quả đúng.
+- Sheet: 3B, Dòng: 38
+- Sheet: 3B-finetune, Dòng: 40
+- Sheet: 7B, Dòng: 30
+- Sheet: 7B-finetune, Dòng: 26
+- Sheet: 14B, Dòng: 22
+
+Giá trị: 2m^{2} 3cm^{2} = ………….m^{2}
+- Sheet: 3B, Dòng: 39
+- Sheet: 3B-finetune, Dòng: 41
+- Sheet: 7B-finetune, Dòng: 27
+
+Giá trị: Viết số thích hợp vào chỗ chấm: Giá trị của biểu thức: 136,5 – 100 \div 2,5 \times 0,9 là:
+- Sheet: 3B, Dòng: 42
+- Sheet: 3B-finetune, Dòng: 45
+- Sheet: 7B, Dòng: 32
+- Sheet: 7B-finetune, Dòng: 31
+- Sheet: 14B, Dòng: 25
+
+Giá trị: Chữ số 8 trong số thập phân 95,284 có giá trị là:
+- Sheet: 3B, Dòng: 44
+- Sheet: 3B-finetune, Dòng: 46
+- Sheet: 7B, Dòng: 33
+- Sheet: 14B, Dòng: 26
+
+Giá trị: 302 được viết thành tổng là:
+- Sheet: 3B, Dòng: 46
+- Sheet: 3B-finetune, Dòng: 47
+- Sheet: 7B, Dòng: 34
+- Sheet: 7B-finetune, Dòng: 32
+- Sheet: 14B, Dòng: 27
+
+Giá trị: Cách viết khác của 35,33 là:
+- Sheet: 3B, Dòng: 48
+- Sheet: 3B-finetune, Dòng: 49
+- Sheet: 7B-finetune, Dòng: 35
+
+Giá trị: 49,4% x 30 = ............. %
+- Sheet: 3B, Dòng: 49
+- Sheet: 7B, Dòng: 35
+- Sheet: 14B, Dòng: 28
+
+Giá trị: Chữ số 6 trong số thập phân 72,364 có giá trị là:
+- Sheet: 3B, Dòng: 51
+- Sheet: 14B, Dòng: 29
+
+Giá trị: Số thập phân “tám đơn vị, hai phần nghìn” được viết là:
+- Sheet: 3B, Dòng: 55
+- Sheet: 3B-finetune, Dòng: 50
+
+Giá trị: Chữ số 7 trong số thập phân 26,475 có giá trị là:
+- Sheet: 3B, Dòng: 56
+- Sheet: 3B-finetune, Dòng: 51
+- Sheet: 7B, Dòng: 37
+- Sheet: 14B, Dòng: 30
+
+Giá trị: Giá trị của chữ số 7 trong số thập phân 45,872 là:
+- Sheet: 3B, Dòng: 57
+- Sheet: 7B, Dòng: 38
+
+Giá trị: Ngày 28 tháng 4 là thứ sáu. Ngày 2 tháng 5 là thứ mấy?
+- Sheet: 3B, Dòng: 58
+- Sheet: 7B-finetune, Dòng: 38
+
+Giá trị: Số 938,275 giá trị của chữ số 7 là:
+- Sheet: 3B, Dòng: 59
+- Sheet: 3B-finetune, Dòng: 54
+- Sheet: 7B, Dòng: 39
+- Sheet: 14B, Dòng: 31
+
+Giá trị: Nếu chỉ lấy đến hai chữ số của phần thập phân của thương khi chia 33,14 cho 60 thì số dư là
+- Sheet: 3B, Dòng: 60
+- Sheet: 3B-finetune, Dòng: 55
+- Sheet: 7B-finetune, Dòng: 39
+
+Giá trị: Hai lớp A và B được phân công quét một nửa sân trường. Hai lớp bắt đầu quét cùng một lúc. Sau 20 phút lớp A quét xong phần sân được giao và tiếp tục sang quét cùng lớp B thêm 4 phút nữa thì hai lớp quét xong cả sân trường. Hỏi nếu chỉ 1 mình lớp B quét không có lớp A thì trong bao lâu sẽ xong toàn bộ sân trường.
+- Sheet: 3B, Dòng: 61
+- Sheet: 3B-finetune, Dòng: 59
+- Sheet: 7B, Dòng: 42
+- Sheet: 14B, Dòng: 32
+
+Giá trị: Tổng của số chẵn lớn nhất có ba chữ số và số liền sau của số bé nhất có hai chữ số là:
+- Sheet: 3B, Dòng: 62
+- Sheet: 3B-finetune, Dòng: 60
+
+Giá trị: Thời gian từ  8 giờ 50 phút tối đến 9 giờ 35 phút sáng hôm sau là:
+- Sheet: 3B, Dòng: 65
+- Sheet: 3B-finetune, Dòng: 65
+- Sheet: 14B, Dòng: 33
+
+Giá trị: Người ta xây một bể nước, chiều dài 20 m, chiều rộng 15 m, một khu có độ sâu 0,2 m, một khu có độ sâu 2 m, hai khu có diện tích mặt nước bằng nhau. Muốn khoảng cách giữa mặt nước và mặt bể là 10cm thì lượng nước cần xả là bao nhiêu (bể chưa có nước).
+- Sheet: 3B, Dòng: 66
+- Sheet: 3B-finetune, Dòng: 66
+- Sheet: 7B, Dòng: 43
+- Sheet: 7B-finetune, Dòng: 43
+- Sheet: 14B, Dòng: 34
+
+Giá trị: Trong số 91,0938 giá trị của chữ số 3 là
+- Sheet: 3B, Dòng: 68
+- Sheet: 7B, Dòng: 44
+- Sheet: 7B-finetune, Dòng: 44
+
+Giá trị: Số lớn nhất trong các số: 9,899; 9,98; 9,89; 8,99 là:
+- Sheet: 3B, Dòng: 71
+- Sheet: 7B-finetune, Dòng: 45
+
+Giá trị: Một cửa hàng buổi sáng bán được 1/2 số truyện tranh có trong cửa hàng và buổi chiều bán thêm được 2/9 số truyện thì còn lại 15 quyển truyện tranh trong cửa hàng. Hỏi tổng số quyển truyện tranh bán được trong buổi sáng là bao nhiêu?
+- Sheet: 3B, Dòng: 73
+- Sheet: 3B-finetune, Dòng: 73
+- Sheet: 7B-finetune, Dòng: 47
+
+Giá trị: Kết quả của phép tính sau đây là bao nhiêu: 1\frac{2}{3} + 2\frac{3}{4} + 3\frac{4}{5} + 4\frac{5}{6} + \frac{2}{3} + \frac{3}{4} + \frac{4}{5} + \frac{5}{6}
+- Sheet: 3B, Dòng: 74
+- Sheet: 3B-finetune, Dòng: 74
+- Sheet: 7B-finetune, Dòng: 48
+- Sheet: 14B, Dòng: 35
+
+Giá trị: Khi đánh số trang của một cuốn sách từ trang 90 đến 110  ta cần dùng bao nhiêu chữ số.
+- Sheet: 3B, Dòng: 76
+- Sheet: 3B-finetune, Dòng: 77
+- Sheet: 7B-finetune, Dòng: 51
+
+Giá trị: Tìm số có 3 chữ số, trong đó chữ số hàng đơn vị bằng 1/6 lần chữ số hàng chục và chữ số hàng trăm chia cho 5 số dư là 4.
+- Sheet: 3B, Dòng: 79
+- Sheet: 3B-finetune, Dòng: 79
+- Sheet: 7B, Dòng: 47
+- Sheet: 14B, Dòng: 36
+
+Giá trị: Chữ số 5 trong số 1695,7 chỉ:
+- Sheet: 3B, Dòng: 80
+- Sheet: 7B, Dòng: 48
+- Sheet: 7B-finetune, Dòng: 53
+
+Giá trị: Tính số lượng số hạng của dãy số sau: 1, 4, 7, 10, 13, 16, ..., 94, 97, 100, 103.
+- Sheet: 3B, Dòng: 82
+- Sheet: 3B-finetune, Dòng: 82
+
+Giá trị: Tìm số có 3 chữ số, biết rằng tổng các số hạng bằng số lớn nhất của số tự nhiên có 1 chữ số. Và số chữ số hàng trăm trừ đi chữ số hàng chục trừ thêm một thì bằng chữ số hàng đơn vị và bằng số tự nhiên nhỏ nhất.
+- Sheet: 3B, Dòng: 83
+- Sheet: 7B-finetune, Dòng: 58
+
+Giá trị: Cho một hình vuông có cạnh 3,5 cm, một hình chữ nhật có chiều dài 4 cm, chiều rộng 3 cm.
+- Sheet: 3B, Dòng: 84
+- Sheet: 3B-finetune, Dòng: 84
+- Sheet: 14B, Dòng: 37
+
+Giá trị: Tám đơn vị, sáu phần mười, năm phần nghìn viết được số thập phân là:
+- Sheet: 3B, Dòng: 85
+- Sheet: 3B-finetune, Dòng: 85
+
+Giá trị: Giá trị của chữ số 5 trong số 23,150 là:
+- Sheet: 3B, Dòng: 86
+- Sheet: 3B-finetune, Dòng: 86
+- Sheet: 14B, Dòng: 38
+
+Giá trị: Hình lập phương có:
+- Sheet: 3B, Dòng: 87
+- Sheet: 3B-finetune, Dòng: 88
+- Sheet: 7B-finetune, Dòng: 62
+- Sheet: 14B, Dòng: 39
+
+Giá trị: 3 ha 45dam^{2} = ……… dam^{2}
+- Sheet: 3B, Dòng: 88
+- Sheet: 3B-finetune, Dòng: 93
+- Sheet: 7B-finetune, Dòng: 64
+- Sheet: 14B, Dòng: 40
+
+Giá trị: Một thửa ruộng hình thang có đáy bé dài 8m, đáy lớn dài 12m. Kéo dài đáy lớn thêm 5m thì diện tích thửa ruộng tăng thêm 25m2. Hỏi diện tích thửa ruộng tăng thêm bao nhiêu phần trăm?
+- Sheet: 3B-finetune, Dòng: 3
+- Sheet: 7B-finetune, Dòng: 2
+
+Giá trị: Một hình hộp hình chữ nhật có chiều dài là 12 cm, chiều rộng là 8 cm. Một hình lập phương có cạnh bằng trung bình cộng ba kích thước của hình hộp chữ nhật và có diện tích toàn phần là 486 cm^{2}. Tìm chiều cao của hình hộp chữ nhật.
+- Sheet: 3B-finetune, Dòng: 10
+- Sheet: 7B-finetune, Dòng: 5
+
+Giá trị: Dấu (>; <; =) điền vào chỗ chấm của: 8 m^{2} 50 dm^{2} . . . 8,05 m^{2} là:
+- Sheet: 3B-finetune, Dòng: 16
+- Sheet: 7B-finetune, Dòng: 9
+
+Giá trị: Chữ số 9 trong số 427,098 chỉ:
+- Sheet: 3B-finetune, Dòng: 27
+- Sheet: 7B, Dòng: 19
+- Sheet: 14B, Dòng: 17
+
+Giá trị: 2 dam^{2} 49 m^{2} = .........m^{2}
+- Sheet: 3B-finetune, Dòng: 29
+- Sheet: 7B, Dòng: 20
+
+Giá trị: Mua 5m vải hết 150000 đồng. Mua 25 m vải loại đó thì phải trả nhiều hơn là .......................... đồng.
+- Sheet: 3B-finetune, Dòng: 32
+- Sheet: 7B-finetune, Dòng: 21
+
+Giá trị: Trung bình cộng của 1,12; 2,78; 3 là:
+- Sheet: 3B-finetune, Dòng: 35
+- Sheet: 7B, Dòng: 25
+
+Giá trị: Trong kho nhà Minh có một số gạo, 10 ngày đầu nhà Minh dùng hết 1 yến gạo, 10 ngày tiếp theo nhà Minh dùng hết nửa số gạo còn lại, 10 ngày cuối tháng nhà Minh dùng hết số gạo trong kho và phải mua thêm 3 kg gạo nữa. Biết trong 30 ngày đó, nhà Minh dùng hết tất cả 0,35 tạ gạo. Hỏi 10 ngày cuối tháng, nhà Minh dùng hết bao nhiêu ki-lô-gam gạo?
+- Sheet: 3B-finetune, Dòng: 36
+- Sheet: 7B, Dòng: 26
+
+Giá trị: Kết quả của phép tính: 34,46 + 35,55
+- Sheet: 3B-finetune, Dòng: 44
+- Sheet: 7B-finetune, Dòng: 30
+- Sheet: 14B, Dòng: 24
+
+Giá trị: Giá trị của chữ số 2 trong số 340,2 là:
+- Sheet: 3B-finetune, Dòng: 48
+- Sheet: 7B-finetune, Dòng: 34
+
+Giá trị: Tính Diện tích của hình chữ nhật biết chiều dài là 15cm và chiều rộng bằng 1/2 chiều dài trừ thêm 1/2cm.
+- Sheet: 3B-finetune, Dòng: 56
+- Sheet: 7B-finetune, Dòng: 40
+
+Giá trị: Tổng của dãy số 1, 4, 7, 10, 13, 16, ..., 94, 97, 100, 103 là:
+- Sheet: 3B-finetune, Dòng: 57
+- Sheet: 7B, Dòng: 40
+- Sheet: 7B-finetune, Dòng: 41
+
+Giá trị: Lan nghĩ ra 1 số tự nhiên có 4 chữ số, biết rằng nếu xoá đi chữ số hàng ngàn và hàng trăm thì số đó giảm đi 71 lần. Vậy số đó là số nào trong các số dưới đây:
+- Sheet: 3B-finetune, Dòng: 58
+- Sheet: 7B, Dòng: 41
+- Sheet: 7B-finetune, Dòng: 42
+
+Giá trị: Có 20 viên bi, trong đó có 3 viên bi đỏ, 4 viên bi xám, 5 viên bi đen, 8 viên bi trắng. Như vậy 1/4 số viên bi có màu là:
+- Sheet: 3B-finetune, Dòng: 70
+- Sheet: 7B-finetune, Dòng: 46
+
+Giá trị: Trong lớp học, có 2/5 số bạn được phân công vào đội múa còn 1/3 số bạn được phân công vào đội hát. Sau khi phân công thì trong lớp còn 12 bạn chưa được phân công. Hỏi số bạn được phân công vào đội múa là bao nhiêu bạn?
+- Sheet: 3B-finetune, Dòng: 81
+- Sheet: 7B-finetune, Dòng: 56
+
+Giá trị: Phân số nào có thể chuyển thành phân số thập phân. Biết các phân số thập phân là các phân số có mẫu là: 10,100,1000...
+- Sheet: 3B-finetune, Dòng: 87
+- Sheet: 7B, Dòng: 51
+- Sheet: 7B-finetune, Dòng: 60
+
+Giá trị: Tìm số dư trong phép chia  231,37 \div 22, biết rằng phần thương chỉ lấy 2 chữ số thập phân:
+- Sheet: 3B-finetune, Dòng: 90
+- Sheet: 7B, Dòng: 53
+- Sheet: 7B-finetune, Dòng: 63
+
+Giá trị: Giá  trị chữ số 8 trong số thập phân 12,384 là :
+- Sheet: 3B-finetune, Dòng: 96
+- Sheet: 7B, Dòng: 54
+- Sheet: 14B, Dòng: 41
+
+Giá trị: Lớp 9A có 35 bạn, với 10 bạn nữ. Tỷ lệ bạn nữ so với bạn nam là bao nhiêu %
+- Sheet: 3B-finetune, Dòng: 98
+- Sheet: 7B-finetune, Dòng: 65
+
+Giá trị: Phòng học có dạng hình hộp chữ nhật chiều dài 7m, chiều rộng 4,5m, chiều cao 3m. Người ta muốn sơn toàn bộ trần nhà và 4 bức tường. Biết tổng diện tích các cửa là 7,5m2, tính diện tích cần sơn.
+- Sheet: 3B-finetune, Dòng: 99
+- Sheet: 7B-finetune, Dòng: 66
+
+Giá trị: Trong số 410,920, giá trị của chữ số 2:
+- Sheet: 3B-finetune, Dòng: 100
+- Sheet: 14B, Dòng: 42
+
+Giá trị: Chữ số 8 trong số thập phân 76,815 có giá trị là:
+- Sheet: 7B, Dòng: 29
+- Sheet: 7B-finetune, Dòng: 25
+
+Giá trị: Số thập phân gồm có: 5 nghìn, 2 đơn vị, 2 phần nghìn được viết là:
+- Sheet: 7B, Dòng: 45
+- Sheet: 7B-finetune, Dòng: 52
+
+Giá trị: Tính nhanh: 1,1 + 2,2 + 3,3 + 4,4 + 5,5 + 6,6 + 7,7 + 8,8 + 9,9 + 10,10
+- Sheet: 7B, Dòng: 52
+- Sheet: 7B-finetune, Dòng: 61
+
+Giá trị: Trung bình cộng của 3 phân số là \frac{13}{36}. Trung bình cộng của phân số thứ nhất và phân số thứ hai là \frac{5}{12}, của phân số thứ hai và phân số thứ ba là \frac{7}{24}. Phân số thứ nhất, thứ 2, thứ 3 lần lượt là:
+- Sheet: 7B, Dòng: 56
+- Sheet: 7B-finetune, Dòng: 67
+
+Giá trị: Ngày 29/2/2012 là thứ tư, vậy ngày 4/3/2012 là thứ mấy
+- Sheet: 7B, Dòng: 57
+- Sheet: 7B-finetune, Dòng: 68
+- Sheet: 14B, Dòng: 43
+
+Giá trị: Các số X, III, XX, IX, VI, XI được sắp xếp theo thứ tự từ lớn đến bé là:
+- Sheet: 7B, Dòng: 60
+- Sheet: 7B-finetune, Dòng: 70
+- Sheet: 14B, Dòng: 44
+
+Giá trị: Cho số thập phân 102,456. Nếu chuyển dấu phẩy sang bên phải 2 chữ số thì chữ số 4 thuộc hàng nào?
+- Sheet: 7B, Dòng: 63
+- Sheet: 7B-finetune, Dòng: 73
+- Sheet: 14B, Dòng: 45
+
+Giá trị: 5% của 12 và số 12 là số nào? Khoanh vào đáp án đúng:
+- Sheet: 7B, Dòng: 64
+- Sheet: 7B-finetune, Dòng: 79
+
+Giá trị: Chữ số 8 trong số 24,289 thuộc hàng nào?
+- Sheet: 7B, Dòng: 65
+- Sheet: 7B-finetune, Dòng: 80
+
+Giá trị: Trên bảng ghi các số 15, 18, 21, 24, 27, 30, 33, 36. Bạn Mạnh xóa đi một số thì thấy trung bình cộng của các số trên bảng còn lại kết thúc bằng chữ số 4. Hãy cho biết Mạnh xóa đi số nào?
+- Sheet: 7B, Dòng: 68
+- Sheet: 7B-finetune, Dòng: 89
+- Sheet: 14B, Dòng: 49
+
+Giá trị: Số dư trong phép chia 12328 : 105 sau khi cộng với 7 là bao nhiêu:
+- Sheet: 7B, Dòng: 69
+- Sheet: 14B, Dòng: 50
